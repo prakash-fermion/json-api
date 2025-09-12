@@ -5,7 +5,7 @@
         "rightPadding": "16",
         "topPadding": "16",
         "bottomPadding": "16",
-        "backgroundColor": "#FFFFFF",
+        "backgroundColor": "#3C146E",
         "appbar": {
             "showBackButton": "true",
             "title": "Open New Deposit",
