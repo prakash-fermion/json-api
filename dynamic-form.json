@@ -2359,7 +2359,7 @@
                 "borderRadius": "30",
                 "height": "",
                 "width": "",
-                "isVisible": "true"
+                "isVisible": "false"
             }
         }
     ]
