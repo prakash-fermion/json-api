@@ -2288,7 +2288,7 @@
                 "fontSize": "40",
                 "showBackButton": "false",
                 "inputBorder": "",
-                "borderRadius": "30",
+                "borderRadius": "4",
                 "height": "",
                 "width": "",
                 "isVisible": "true"
@@ -2356,7 +2356,7 @@
                 "fontSize": "40",
                 "showBackButton": "false",
                 "inputBorder": "",
-                "borderRadius": "30",
+                "borderRadius": "4",
                 "height": "",
                 "width": "",
                 "isVisible": "false"
