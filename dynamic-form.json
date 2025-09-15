@@ -11,7 +11,7 @@
             "title": "Open New Deposit",
             "titleColor": "#FFFFFF",
             "fontSize": "18",
-            "backgroundColor": "#FF0000",
+            "backgroundColor": "#3C146E",
             "centerTitle": "false"
         }
     },
@@ -2357,7 +2357,7 @@
                 "borderRadius": "4",
                 "height": "",
                 "width": "",
-                "backgroundColor": "#FF0000",
+                "backgroundColor": "",
                 "isVisible": "true"
             }
         },
